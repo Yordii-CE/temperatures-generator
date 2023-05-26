@@ -1,2 +1,8 @@
-# temperatures-generator
-Application made in Java that generates temperatures and obtains the average temperature of the day.
+### Details
+- JFrame
+- 
+### Screenshots
+
+- App
+
+![Descripción de la imagen](/screenshots/app.mp4)
