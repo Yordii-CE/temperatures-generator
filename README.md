@@ -5,4 +5,4 @@
 
 - App
 
-![Descripción de la imagen](/screenshots/app.mp4)
+[![Texto alternativo](/screenshots/app.mp4)](/screenshots/app.mp4)
