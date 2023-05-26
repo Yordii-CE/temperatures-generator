@@ -1,6 +1,6 @@
 ### Details
 - JFrame
-- 
+
 ### Screenshots
 
 - App
